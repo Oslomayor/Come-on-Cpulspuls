@@ -3,7 +3,7 @@ using namespace std;
 using namespace std;
 
 #if 0
-	此处可以巧用条件编译来写注释
+	巧用条件编译, #if 和 #endif 之间可以来写注释
 #endif
 
 int main()
